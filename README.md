@@ -57,12 +57,3 @@ This is a **fictional case study** created for portfolio and demonstration purpo
 
 ---
 
-## Feedback
-
-Feedback and discussion are welcome! 💡
-
----
-
-## Tags
-
-#FinancialModeling #FPnA #ScenarioAnalysis #Finance #Excel #Dashboard #StartupFinance
